@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/sandyBoi007/fooddistribution.git
+git add .
+git status
+git commit -m "created folder"
+git push
